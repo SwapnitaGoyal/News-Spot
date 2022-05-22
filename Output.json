@@ -1,0 +1,37 @@
+
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky - BBC.com",
+      "description": "The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism.",
+      "url": "https://www.bbc.com/news/world-europe-60579247",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3CA/production/_123462064_destroyedcar.jpg",
+      "publishedAt": "2022-03-02T04:56:27Z",
+      "content": "Media caption, Watch: The moment Kyiv TV tower was struck by a Russian missile\r\nUkrainian President Volodymyr Zelensky has accused Russia of war crimes after it launched an air strikes on the country… [+5896 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "Zack Sharf",
+      "title": "Samuel L. Jackson: ‘I Should’ve Won’ an Oscar, but Oscars Don’t Get ‘Asses in Seats’ Like I Do - Variety",
+      "description": "Popular on Variety Samuel L. Jackson has a message for the Academy and it has nothing to do with the current drama surrounding the reformatted 94th Academy Awards telecast. Instead, Jackson wants Oscar voters to know that he should have an Academy Award under…",
+      "url": "https://variety.com/2022/film/news/samuel-l-jackson-shouldve-won-oscars-1235193523/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-01-at-5.08.27-PM.png?w=1024",
+      "publishedAt": "2022-03-01T22:52:00Z",
+      "content": "Samuel L. Jackson has a message for the Academy and it has nothing to do with the current drama surrounding the reformatted 94th Academy Awards telecast. Instead, Jackson wants Oscar voters to know t… [+2331 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Live Science" },
+      "author": "Brandon Specktor",
+      "title": "2 monster black holes are headed toward a collision that will rock the fabric of space-time - Livescience.com",
+      "description": "The two black holes will merge about 10,000 years from now and ripple the fabric of space-time in the process.",
+      "url": "https://www.livescience.com/supermassive-black-hole-merger",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/S2U45A6mo2LaHsjdejVBkP-1200-80.jpeg",
+      "publishedAt": "2022-03-01T17:50:14Z",
+      "content": "Astronomers have discovered two supermassive black holes\r\n that are 99% of the way to a violent collision that will rock the very fabric of space-time\r\n.\r\nThe black holes, which share the name PKS 21… [+3469 chars]"
+    }
+  ]
+}
